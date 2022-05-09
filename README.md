@@ -1,2 +1,2 @@
-# my-repositroy
-this repositroy is created for portfolio sessions.
+# my-repository
+this repository is created for portfolio sessions.
